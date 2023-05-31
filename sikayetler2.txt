@@ -1,0 +1,13 @@
+Bas agriniz var mi?                      Evet 
+Herhangi bir kulak agriniz var mi?       Evet 
+Boyun agriniz var mi?                    Hayýr 
+Sirt agriniz var mi?                     Hayýr 
+Herhangi bir kol agriniz var mi?         Hayýr 
+Bacak agriniz var mi?                    Hayýr 
+Atesiniz var mi?                         Hayýr 
+Bogaz agriniz var mi?                    Evet 
+Burun akintiniz var mi?                  Evet 
+Kalp sikayetiniz var mi?                 Hayýr 
+Mide bulantiniz var mi?                  Hayýr 
+Herhangi bir gorme bozuklugunuz var mi?  Hayýr 
+Herhangi bir Dis agriniz var mi?         Hayýr 

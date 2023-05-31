@@ -1,0 +1,13 @@
+Bas agriniz var mi?                     
+Herhangi bir kulak agriniz var mi?      
+Boyun agriniz var mi?                   
+Sirt agriniz var mi?                    
+Herhangi bir kol agriniz var mi?        
+Bacak agriniz var mi?                   
+Atesiniz var mi?                        
+Bogaz agriniz var mi?                   
+Burun akintiniz var mi?                 
+Kalp sikayetiniz var mi?                
+Mide bulantiniz var mi?                 
+Herhangi bir gorme bozuklugunuz var mi? 
+Herhangi bir Dis agriniz var mi?        
